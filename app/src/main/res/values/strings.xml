@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="show_recipe">Show Recipe</string>
+    <string name="select_recipe_prompt">Select a recipe to see the ingredients.</string>
+    <string name="pasta_recipe">Ingredients for Pasta:\n 250 gms Fusilli Pasta\n 3 tbsp Tomato Sauce\n 2 tbsp Feta Cheese\n Garnish with Fresh Herbs</string>
+    <string name="pizza_recipe">Ingredients for Pizza:\n 1 hand sized kneeded Dough\n 3 tbsp Tomato Sauce\n 50 gms Cheese\n Olives (optional) \ 60 gms Mushrooms\n Garnish with Mozzarela</string>
+    <string name="salad_recipe">Ingredients for Salad:\n Lettuce\n 80 gms Cherry Tomatoes\n 1 Cucumber\n Garnish with Greek Salad Dressing</string>
+</resources>

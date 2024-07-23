@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipes">
+        <item>Select recipe</item>
+        <item>Fusilli Pasta</item>
+        <item>Mushroom Pizza</item>
+        <item>Greek Salad</item>
+    </string-array>
+</resources>
